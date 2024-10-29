@@ -1,1 +1,11 @@
-I am Suvendu, I am ready to work. 
+Example 2  : Find five rational numbers between 1 and 2.
+
+Solution 1 :Explain 
+
+Step 1 : We know that a rational numbers requires two integers number.Here r and s are integers number.
+
+Step 2 : According to the rule, if we add two integers and divide by 2, we get the first rational number. 
+
+Step 3 : The rational numbers between 1 and 2 is (1+2)/2=3/2, it is the first rational number.
+Here r and s the simplest approach is to divide their sum by 2.
+There after the four number is proced to step by step, the value of (sum of the two number)/2 , then find the next rational number by dividing the sum of the first rational number. 
