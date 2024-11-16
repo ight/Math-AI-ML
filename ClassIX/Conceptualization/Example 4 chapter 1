@@ -1,0 +1,23 @@
+# Locate √3 on the number line. 
+
+## Let's start... 
+ 
+-.1 Step: 
+          Draw a number line horizontal and mark points to integers, points are -3,-2,-1,0,1,2 and 3at equiaval intervals  of 1 unit each .
+
+-.2 Step:
+         Now consider OA=1 unit on the number line.
+
+-.3 Step:  
+        construct a perpendicular line AB=1 unit.
+
+-.4 Step: 
+         Join OB applying the Pythagorean theorem. we get (√OA²+AB²)= √(1²+1²)=√2
+    Thus OB = √2 .
+
+-.5 Step:
+         Pythagoras theorem we see that OD=√(√2)² + 1² = √3
+      
+       Using compass with centre O and radius OD. draw an arc which intersects the number line at the point Q.
+
+       Thus OD represent √3 is irrational number. 
