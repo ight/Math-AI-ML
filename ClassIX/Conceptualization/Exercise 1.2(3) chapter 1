@@ -1,0 +1,30 @@
+# Show how √5 can be represent on the number line. 
+
+## Let us solve it....
+
+-.1 Stage :
+          At first draw a number line, where Zero as the middle point. To left of this point are -1 , -2 and right side are 1 , 2 and 3. There are each unit =1 
+
+-.2 Stage :
+          Now draw 90° angle on point 2, with use of compass.
+
+-.3 Stage :
+           Then take 1unit and cut it on the perpendicular. 
+  (Here point 0 is 'O'and point 2 is 'A' and perpendicular point is 'B' )
+     So, OA = 2 unit and AB = 1 unit 
+
+-.4 Stage :
+          After that join OB. 
+     So, we get "OAB" is a right triangle , where angle OAB = 90°
+
+         according to the theory of Pythagoras ...
+
+               OB²= OA² + AB²
+               OB²= (2)²+(1)²
+               OB²= 4+1 = 5
+                OB =√5
+
+Then draw a circle with radius OB, that intersecting at P .
+       (Here P will be located after point A on the number line.) 
+
+      So, The point P is represent √5 on the number line. 
