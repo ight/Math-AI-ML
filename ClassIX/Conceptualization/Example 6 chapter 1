@@ -1,0 +1,25 @@
+# Show that 3.142678 is a rational number. In other words, express 3.142678
+in the form p/q, where p and q are integers and q ≠ 0.
+
+## Solution :-
+
+-.1 Case : 
+          First of all, we start with decimal number 3.142678
+
+-.2 Case : 
+          We remove the decimal point, therefore we get 3142678.
+
+-.3 Case : 
+          There are 6 digits after the decimal. 
+
+-.4 Case :
+           Then we divide this digits by 1000000.
+         
+Hence , write 1000000 in denominator. 
+        We get 3142678/1000000
+
+
+Here p = 3142678 and q = 1000000 .
+Both p and q are integers , and q ≠ 0
+
+So, we conclude that 3.142678 is a rational number. 
