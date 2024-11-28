@@ -1,0 +1,25 @@
+# Show that 1.272727... =1.27 can be expressed in the form of p/q , where p and q are integers and q ≠ 0 .
+
+## Solution : 
+           Let's start 
+
+-.1 Step :
+          Let x = 1.272727 , this means that is a repeating decimal where the digit 27 repeats infinitely. 
+
+-.2 Step :
+          We will be multiplying both side with 100 . Because here are two digit repeating. 
+
+             100x = 100×1.272727
+             100x = 127.2727
+             100x = 126+1.272727
+             100x = 126+x
+             100x - x = 126
+              99x = 126 
+              x = 126/99
+                = 14/11 
+      ( Here p=14 and q =11, where q≠0)
+
+-.3 Step :
+          So, which is in the form of a p/q form and the denominator not 0.
+
+         So, therefore we represented x in the form of p/q.
